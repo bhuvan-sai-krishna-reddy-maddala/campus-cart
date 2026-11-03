@@ -40,15 +40,10 @@ CampusCart/
 
 For a local development server, you can use the VS Code **Live Server** extension, but it is not required.
 
-## Deploy with GitHub Pages
+## Website Link
 
-1. Create a GitHub repository for the project.
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-3. Open the repository's **Settings**.
-4. Select **Pages** from the sidebar.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and the `/ (root)` folder, then save.
-7. Wait for GitHub Pages to publish the site. The published URL will appear in the Pages settings.
+https://campus-cart-phi.vercel.app
+
 
 ## Theme Toggle
 
